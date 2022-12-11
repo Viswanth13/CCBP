@@ -1,0 +1,25 @@
+* {
+  font-family: 'Roboto';
+}
+
+.blog-info {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.avatar-image {
+  height: 50px;
+  width: 50px;
+  margin-right: 20px;
+}
+
+.author-details {
+  display: flex;
+}
+
+.blog-image {
+  height: 60%;
+  width: 80%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

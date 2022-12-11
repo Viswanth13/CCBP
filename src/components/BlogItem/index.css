@@ -1,0 +1,49 @@
+* {
+  font-family: 'Roboto';
+}
+.item-container {
+  border: 2px solid #8e8e8e;
+  border-radius: 10px;
+  display: flex;
+  padding: 20px;
+  height: 100%;
+  margin-bottom: 20px;
+}
+
+.item-image {
+  height: 200px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.item-info {
+  margin-left: 20px;
+}
+
+.avatar {
+  height: 50px;
+  width: 50px;
+  border-radius: 80;
+  border: 2px solid #000;
+}
+
+.item-topic {
+  color: #8e8e8e;
+  font-weight: 500;
+}
+
+.item-title {
+  color: #2f4f4f;
+  font-weight: bold;
+  font-size: large;
+}
+
+.author-info {
+  display: flex;
+}
+
+.author-name {
+  color: #8e8e8e;
+  font-weight: bold;
+  margin-left: 20px;
+}
